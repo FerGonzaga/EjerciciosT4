@@ -79,3 +79,16 @@
 <p>
     El mundo de los datos (2023) <i>Distribución T de Student: Funcionamiento, propiedades y aplicaciones en estadística</i>, El mundo de los datos. Available at: <a href="https://elmundodelosdatos.com/distribucion-t-de-student-funcionamiento-propiedades-y-aplicaciones-en-estadistica/">https://elmundodelosdatos.com/distribucion-t-de-student-funcionamiento-propiedades-y-aplicaciones-en-estadistica/</a> (Accessed: 07 July 2025).
 </p>
+
+<ol>
+    <li>
+        Tarefa. Distribución T | Distribución T-Student. (6 de febrero de 2020). Accedido el 7 de julio de 2025. 
+        <a href="https://www.youtube.com/watch?v=4kZQ9eqLa_A">Video en línea</a>. Disponible: <a href="https://www.youtube.com/watch?v=4kZQ9eqLa_A">https://www.youtube.com/watch?v=4kZQ9eqLa_A</a>
+    </li>
+    <li>
+        L. Alfonso. “Ejercicios Resueltos de Distribucion T-Student | PDF | Prueba de hipótesis estadísticas | Inferencia estadística”. Scribd. Accedido el 7 de julio de 2025. 
+        <a href="https://es.scribd.com/document/485197762/ejercicios-resueltos-de-distribucion-t-student-1">En línea</a>. Disponible: <a href="https://es.scribd.com/document/485197762/ejercicios-resueltos-de-distribucion-t-student-1">https://es.scribd.com/document/485197762/ejercicios-resueltos-de-distribucion-t-student-1</a>
+    </li>
+</ol>
+
+<p>J. S. Rojas, “Distribucion t de Student,” Scribd. <a href="https://es.scribd.com/document/54150017/Distribucion-t-de-Student">https://es.scribd.com/document/54150017/Distribucion-t-de-Student</a></p>
